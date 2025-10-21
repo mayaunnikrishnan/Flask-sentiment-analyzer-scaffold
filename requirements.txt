@@ -1,0 +1,6 @@
+Flask>=2.0
+scikit-learn>=1.0
+pandas>=1.3
+numpy>=1.21
+# Optional: if you want to use UI helper libraries
+# (Bootstrap/Tailwind are loaded via CDN in the template, so no extra packages required)
